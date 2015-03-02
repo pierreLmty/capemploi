@@ -1,6 +1,6 @@
-body
+/*body
 {
-	background-color: #EBEBEB;
+	background-color:*/ /* #EBEBEB */ /*#FFF;
 }
 
 #banniere
@@ -18,3 +18,15 @@ footer a
 	font: 100%/1.4 Verdana, Geneva, Tahoma, sans-serif;
 	color: #575252;
 }
+
+#slogan
+{
+	color: #676767;
+	text-align: center;
+}
+
+#citationAccueil
+{
+	color: #E20016;
+	text-align: center;
+}*/
