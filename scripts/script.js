@@ -2,21 +2,24 @@ $(document).ready(function()
 {
 	var largeurBanniere = 303;
 
-	if($(window).width() >= 303)
+	$(window).resize(function()
 	{
-		$('#banniere').css(
+		if($(window).width() >= largeurBanniere)
 		{
-			'text-align' : 'center',
-			'width' : '303px',
-			'background-color' : 'red'
-		});
-	}
-	else
-	{
-		$('#banniere').css(
+			$('#banniere').css(
+			{
+				'display' : 'block',
+				'margin' : 'auto',
+				'width' : '303px'
+			});
+		}
+		else
 		{
-			'text-align' : 'center',
-			'width' : '100%'
-		});
-	}
+			$('#banniere').css(
+			{
+				'text-align' : 'center',
+				'width' : '100%'
+			});
+		}
+	});
 });
