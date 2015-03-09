@@ -1,5 +1,6 @@
 $(document).ready(function()
 {
+	// Taille de la bannière
 	var largeurBanniere = 303;
 
 	$(window).resize(function()
@@ -21,5 +22,19 @@ $(document).ready(function()
 				'width' : '100%'
 			});
 		}
+	});
+	
+	
+	// Animation des sous-menus
+	$(function() { 
+		$('.rubrique > a').click(function() { 
+			if ($(this).next().is(':visible')) { 
+				$( '.sousmenu').slideUp(300); 
+			} 
+			else { 
+				$( '.sousmenu').slideUp(300); 
+				$(this).next().slideToggle(300); 
+			} 
+		}); 
 	});
 });

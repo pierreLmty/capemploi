@@ -6,19 +6,6 @@
 		<script type="text/javascript" src="scripts/script.js"></script>
     	<link rel="stylesheet" type="text/css" href="style.css"/>
 		<meta charset="utf-8"/>
-		<script type="text/javascript">
-			$(function() { 
-				$('.rubrique > a').click(function() { 
-					if ($(this).next().is(':visible')) { 
-						$( '.sousmenu').slideUp(300); 
-					} 
-					else { 
-						$( '.sousmenu').slideUp(300); 
-						$(this).next().slideToggle(300); 
-					} 
-				}); 
-			});
-		</script>
 	</head>
 	
 	<body>
@@ -72,20 +59,20 @@
 		</nav>
 		
 		<section>
-			<article id="accueilPersonnesHandicapees">
-				<h1>Personnes handicapées</h1>
-				<ul>
-					<li><a href="#">Services à la personne</a></li>
-					<li><a href="#">Consultez les offres</a></li>
-					<li><a href="#">Gérer mon CV</a></li>
+			<article>
+				<h1 class="titreAccueil" id="accueilPersonnesHandicapees">Personnes handicapées</h1>
+				<ul class="listeAccueil">
+					<li class="elemAccueil"><a href="#">Services à la personne</a></li>
+					<li class="elemAccueil"><a href="#">Consultez les offres</a></li>
+					<li class="elemAccueil"><a href="#">Gérer mon CV</a></li>
 				</ul>
 			</article>
 			
-			<article id="accueilEmployeurs">
-				<h1>Employeurs</h1>
-				<ul>
-					<li><a href="#">Services aux employeurs</a></li>
-					<li><a href="#">Consultez les CV</a></li>
+			<article>
+				<h1 class="titreAccueil" id="accueilEmployeurs">Employeurs</h1>
+				<ul class="listeAccueil">
+					<li class="elemAccueil"><a href="#">Services aux employeurs</a></li>
+					<li class="elemAccueil"><a href="#">Consultez les CV</a></li>
 				</ul>
 			</article>
 		
