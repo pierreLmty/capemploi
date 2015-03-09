@@ -24,8 +24,7 @@ $(document).ready(function()
 		}
 	}
 
-	$(window).resize(majBanniere);
-	majBanniere();
+	$(window).resize(majBanniere());
 	
 	
 	// Animation des sous-menus

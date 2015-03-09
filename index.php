@@ -11,29 +11,11 @@
 	<body>
 		
 		<header>
-			<a href="index.html"><img id="banniere" src="img/capemploi-logo.gif" alt="Logo de Cap emploi"/></a>
+			<?php include_once 'header.html'; ?>
 		</header>
 		
 		<nav>
-		<ul class='conteneur_menu'>
-			<li class='rubrique'><a href='#'>Personnes handicapées
-				<ul class='sousmenu'>
-					<a href='http://www.google.fr'><li class='pagesousmenu'>Service à la personne</li></a>
-					<a href='http://www.google.fr'><li class='pagesousmenu'>Consulter les offres</li></a>
-					<a href='http://www.google.fr'><li class='pagesousmenu'>Gérer mon CV</li></a>
-				</ul>
-			</a></li>
-			
-			<li class='rubrique'><a href='#'>Employeurs
-				<ul class='sousmenu'>
-					<a href='http://www.google.fr'><li class='pagesousmenu'>Services aux employeurs</li></a>
-					<a href='http://www.google.fr'><li class='pagesousmenu'>Consulter les CV</li></a>
-				</ul>
-			</a></li>
-			
-			<li class='pagemenu'><a href='http://www.google.fr'>Nous contacter</a></li>
-			<li class='pagemenu'><a href='http://www.google.fr'>News / Actualités</a></li>
-		</ul>
+			<?php include_once 'menu.html'; ?>
 		</nav>
 		
 		<section>
@@ -64,8 +46,7 @@
 		</section>
 		
 		<footer>
-			<a href="http://www.capemploi44.fr/index.php">Aller sur la version desktop du site</a><br/>
-			©2015 - CAP Emploi Nantes 44 - Tous droits réservés - <a href="mentions-legales.html">Mentions légales</a>
+			<?php include_once 'footer.html'; ?>
 		</footer>
 		
 	</body>
