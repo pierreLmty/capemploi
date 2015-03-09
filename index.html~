@@ -2,10 +2,15 @@
 <html>
 	<head>
 		<title>CAP EMPLOI 44 Nantes - Ressources Handicaps - Organismes de placement spécialisés au service des personnes handicapées et des employeurs pour l'adéquation de l'emploi, compétences et handicap</title>
+<<<<<<< HEAD
+    	<link rel="stylesheet" type="text/css" href="style.css"/>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="scripts/script.js"></script>
-    	<link rel="stylesheet" type="text/css" href="style.css"/>
+=======
+    		<link rel="stylesheet" type="text/css" href="style.css"/>
+>>>>>>> dc25d71e46b6be506ca0222eeb7f9f30950f1f6b
 		<meta charset="utf-8"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script type="text/javascript">
 			$(function() { 
 				$('.rubrique > a').click(function() { 
