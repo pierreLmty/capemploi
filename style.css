@@ -52,22 +52,17 @@ li
 	margin: 0;
 }
 
-.rubrique
-{
-	width:100%;
-}
-
 .sousmenu
 {
 	display:none;
-	padding-left: 0px;
+	padding-left: 0;
 }
 
 
 .pagesousmenu
 {
 	background-color:grey;
-	height: 50px;
+	margin: 0;
 	vertical-align: middle;
 	-webkit-transition:all 0.25s ease;
 	-moz-transition:all 0.25s ease;
@@ -81,9 +76,7 @@ li
 .pagemenu
 {
 	background-color:blue;
-	width:100%;
 	color:white;
-	height: 50px;
 	-webkit-transition-property:background-color;
 	-moz-transition-property:background-color;
 	-ms-transition-property:background-color;
@@ -93,13 +86,18 @@ li
 	-moz-transition-duration:1s;
 	-ms-transition-duration:1s;
 	-o-transition-duration:1s;
-	
+}
+
+.pagemenu a
+{
+	width: 100%;
+	display: block;
+	padding: 8px;
 }
 
 .rubrique
 {
 	background-color:red;
-	width:100%;
 	color:white;
 	text-decoration:none;
 	-webkit-transition-property:background-color;
@@ -113,6 +111,12 @@ li
 	-o-transition-duration:1s;
 	transition-duration:1s;
 	
+}
+
+.rubrique a
+{
+	padding: 8px;
+	display: block;
 }
 
 h1.titreAccueil
@@ -139,7 +143,6 @@ ul li.elemAccueil
 {
 	list-style-type: none;
 	background-color: rgb(130, 130, 130);
-	padding: 8px;
 }
 
 ul li.elemAccueil:last-child
@@ -154,8 +157,10 @@ ul li.elemAccueil:last-child
 
 ul li.elemAccueil a
 {
+	display: block;
 	color: white;
 	text-decoration: none;
+	padding: 8px;
 }
 
 #accueilPersonnesHandicapees

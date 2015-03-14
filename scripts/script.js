@@ -36,7 +36,7 @@ $(document).ready(function()
 			} 
 			else { 
 				$( '.sousmenu').slideUp(300); 
-				$(this).next().slideToggle(300); 
+				$(this).next().slideToggle(300);
 			} 
 		}); 
 	});
