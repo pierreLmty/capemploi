@@ -36,13 +36,13 @@
 				</ul>
 			</article>
 		
-			<p id="slogan">
+			<article id="slogan">
 				Cap emploi, un réseau national d'organismes de placement spécialisés au service des personnes handicapées et des employeurs.
-			</p>
+			</article>
 		
-			<p id="citationAccueil">
+			<article id="citationAccueil">
 				« POUR L'ADEQUATION EMPLOI, COMPETENCES ET HANDICAP »
-			</p>
+			</article>
 		</section>
 		
 		<footer>
