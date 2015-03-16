@@ -16,6 +16,11 @@ footer
 	text-align: center;
 }
 
+h2
+{
+	
+}
+
 footer a
 {
 	color: #575252;
@@ -95,10 +100,10 @@ li
 
 .pagemenu:last-child
 {
-	/*-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-left-radius: 10px;
 	-webkit-border-top-right-radius: 10px;
 	-moz-border-radius-topleft: 10px;
-	-moz-border-radius-topright: 10px;*/
+	-moz-border-radius-topright: 10px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 }
@@ -135,10 +140,10 @@ li
 
 .rubrique:first-child
 {
-	/*-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-left-radius: 10px;
 	-webkit-border-top-right-radius: 10px;
 	-moz-border-radius-topleft: 10px;
-	-moz-border-radius-topright: 10px;*/
+	-moz-border-radius-topright: 10px;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 
@@ -179,10 +184,10 @@ ul li.elemAccueil
 
 ul li.elemAccueil:last-child
 {
-	-webkit-border-top-left-radius: 10px;
+	/*-webkit-border-top-left-radius: 10px;
 	-webkit-border-top-right-radius: 10px;
 	-moz-border-radius-topleft: 10px;
-	-moz-border-radius-topright: 10px;
+	-moz-border-radius-topright: 10px;*/
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 }
