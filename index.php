@@ -23,7 +23,7 @@
 				<h1 class="titreAccueil" id="accueilPersonnesHandicapees">Personnes handicapées</h1>
 				<ul class="listeAccueil">
 					<li class="elemAccueil"><a href="#">Services à la personne</a></li>
-					<li class="elemAccueil"><a href="#">Consultez les offres</a></li>
+					<li class="elemAccueil"><a href="offres-emploi.php">Consultez les offres</a></li>
 					<li class="elemAccueil"><a href="#">Gérer mon CV</a></li>
 				</ul>
 			</article>
