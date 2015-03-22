@@ -2,26 +2,22 @@ $(document).ready(function()
 {
 	// Taille de la bannière
 	var largeurBanniere = 303;
+	var largeurBanniere2 = 675;
 	
 	function majBanniere()
 	{
 		if($(window).width() >= largeurBanniere)
 		{
-			$('#banniere').css(
-			{
-				'display' : 'block',
-				'margin' : 'auto',
-				'width' : '303px'
-			});
+			$('#banniere').css('display', 'inline');
+			$('header').css('margin', 'auto');
+			
+			if($(window).width() >= largeurBanniere + largeurBanniere2)
+				$('#banniere-2').show();
+			else
+				$('#banniere-2').hide();
 		}
 		else
-		{
-			$('#banniere').css(
-			{
-				'text-align' : 'center',
-				'width' : '100%'
-			});
-		}
+			$('#banniere-2').hide();
 	}
 
 	$(window).resize(majBanniere);
