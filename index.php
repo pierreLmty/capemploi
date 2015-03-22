@@ -4,18 +4,18 @@
 		<title>CAP EMPLOI 44 Nantes - Ressources Handicaps - Organismes de placement spécialisés au service des personnes handicapées et des employeurs pour l'adéquation de l'emploi, compétences et handicap</title>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="scripts/script.js"></script>
-    	<link rel="stylesheet" type="text/css" href="style.css"/>
+    	<link rel="stylesheet" type="text/css" href="style/style.css"/>
 		<meta charset="utf-8"/>
 	</head>
 	
 	<body>
 		
 		<header>
-			<?php include_once 'header.html'; ?>
+			<?php include_once 'html-includes/header.html'; ?>
 		</header>
 		
 		<nav>
-			<?php include_once 'menu.html'; ?>
+			<?php include_once 'html-includes/menu.html'; ?>
 		</nav>
 		
 		<section>
@@ -46,7 +46,7 @@
 		</section>
 		
 		<footer>
-			<?php include_once 'footer.html'; ?>
+			<?php include_once 'html-includes/footer.html'; ?>
 		</footer>
 		
 	</body>
