@@ -11,7 +11,7 @@ $(document).ready(function()
 			$('#banniere').css('display', 'inline');
 			$('header').css('margin', 'auto');
 			
-			if($(window).width() >= largeurBanniere + largeurBanniere2)
+			if($(window).width() >= largeurBanniere + largeurBanniere2 + 20)
 				$('#banniere-2').show();
 			else
 				$('#banniere-2').hide();

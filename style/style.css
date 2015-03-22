@@ -180,7 +180,7 @@ li
 
 h1.titreAccueil
 {
-	padding: 10px;
+	padding: 20px;
 	margin-bottom: 0;
 	-webkit-border-top-left-radius: 10px;
 	-webkit-border-top-right-radius: 10px;
@@ -196,7 +196,6 @@ ul.listeAccueil
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	font-size: 20px;
 }
 
 ul li.elemAccueil
@@ -227,7 +226,9 @@ ul li.elemAccueil a
 	display: block;
 	color: white;
 	text-decoration: none;
-	padding: 12px;
+	padding: 20px;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 #accueilPersonnesHandicapees
