@@ -63,7 +63,7 @@ li
 
 .pagesousmenu
 {
-	background-color:grey;
+	/*background-color:grey;*/
 	border-bottom: dashed 2px white;
 	margin: 0;
 	vertical-align: middle;
@@ -73,6 +73,16 @@ li
 	-o-transition:all 0.25s ease;
 	transition:all 0.25s ease;
 } 
+
+#menu_pers_handi
+{
+	background-color: rgb(228, 49, 119);
+}
+
+#menu_employeurs
+{
+	background-color: rgb(174, 3, 129);
+}
 
 
 .pagemenu
@@ -173,6 +183,7 @@ h1.titreAccueil
 	-moz-border-radius-topright: 10px;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
+	font-size: 24px;
 }
 
 ul.listeAccueil
@@ -180,12 +191,19 @@ ul.listeAccueil
 	width: 100%;
 	padding: 0;
 	margin: 0;
+	font-size: 20px;
 }
 
 ul li.elemAccueil
 {
 	list-style-type: none;
-	background-color: rgb(130, 130, 130);
+	border-bottom: solid white 1px;
+	/*background-color: rgb(130, 130, 130);*/
+	background-image: -webkit-linear-gradient(top, rgb(150, 150, 150) 0%, rgb(100, 100, 100) 100%);
+	background-image:    -moz-linear-gradient(top, rgb(150, 150, 150) 0%, rgb(100, 100, 100) 100%);
+	background-image:     -ms-linear-gradient(top, rgb(150, 150, 150) 0%, rgb(100, 100, 100) 100%);
+	background-image:      -o-linear-gradient(top, rgb(150, 150, 150) 0%, rgb(100, 100, 100) 100%);
+	background-image:         linear-gradient(top, rgb(150, 150, 150) 0%, rgb(100, 100, 100) 100%);
 }
 
 ul li.elemAccueil:last-child
@@ -196,6 +214,7 @@ ul li.elemAccueil:last-child
 	-moz-border-radius-topright: 10px;*/
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
+	border-bottom: none;
 }
 
 ul li.elemAccueil a
@@ -208,13 +227,23 @@ ul li.elemAccueil a
 
 #accueilPersonnesHandicapees
 {
-	background-color: rgb(228, 49, 119);
+	background-image: -webkit-linear-gradient(top, rgb(248, 69, 139) 0%, black 250%);
+	background-image:    -moz-linear-gradient(top, rgb(248, 69, 139) 0%, black 250%);
+	background-image:     -ms-linear-gradient(top, rgb(248, 69, 139) 0%, black 250%);
+	background-image:      -o-linear-gradient(top, rgb(248, 69, 139) 0%, black 250%);
+	background-image:         linear-gradient(top, rgb(248, 69, 139) 0%, black 250%);
+	/*background-color: rgb(228, 49, 119);*/
 	color: white;
 }
 
 #accueilEmployeurs
 {
-	background-color: rgb(174, 3, 129);
+	background-image: -webkit-linear-gradient(top, rgb(194, 23, 149) 0%, black 250%);
+	background-image:    -moz-linear-gradient(top, rgb(194, 23, 149) 0%, black 250%);
+	background-image:     -ms-linear-gradient(top, rgb(194, 23, 149) 0%, black 250%);
+	background-image:      -o-linear-gradient(top, rgb(194, 23, 149) 0%, black 250%);
+	background-image:         linear-gradient(top, rgb(194, 23, 149) 0%, black 250%);
+	/*background-color: rgb(174, 3, 129);*/
 	color: white;
 }
 
