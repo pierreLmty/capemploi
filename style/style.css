@@ -3,7 +3,7 @@ body
 	background-color: #FFF;
 	font-family: Arial, Helvetica, sans-serif;
 	margin : auto;
-	padding: 10px;
+	padding: 20px;
 }
 
 header
@@ -129,12 +129,11 @@ li
 {
 	width: 100%;
 	display: block;
-	padding: 12px;
+	padding: 22px;
 }
 
 .rubrique
 {
-	/*background-color:red;*/
 	background-image: -webkit-linear-gradient(top, #dbdbdb -20%, rgb(174, 3, 129) 100%);
 	background-image:    -moz-linear-gradient(top, #dbdbdb -20%, rgb(174, 3, 129) 100%);
 	background-image:     -ms-linear-gradient(top, #dbdbdb -20%, rgb(174, 3, 129) 100%);
@@ -174,13 +173,13 @@ li
 
 .rubrique a
 {
-	padding: 12px;
+	padding: 22px;
 	display: block;
 }
 
 h1.titreAccueil
 {
-	padding: 20px;
+	padding: 30px;
 	margin-bottom: 0;
 	-webkit-border-top-left-radius: 10px;
 	-webkit-border-top-right-radius: 10px;
@@ -226,7 +225,7 @@ ul li.elemAccueil a
 	display: block;
 	color: white;
 	text-decoration: none;
-	padding: 20px;
+	padding: 30px;
 	font-size: 20px;
 	font-weight: bold;
 }
