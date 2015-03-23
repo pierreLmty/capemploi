@@ -51,7 +51,7 @@ a
 	text-align: center;
 }
 
-li
+nav li, #tableau_offres_emploi li
 {
 	list-style-type: none;
 }
@@ -328,6 +328,7 @@ article
 #tableau_offre
 {
 	width: 100%;
+	font-size: 20px;
 }
 
 #tableau_offre th
@@ -336,6 +337,7 @@ article
 	color: white;
 	text-align: center;
 	font-weight: bold;
+	font-size: 26px;
 }
 
 #tableau_offre td:nth-child(1)
