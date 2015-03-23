@@ -280,7 +280,7 @@ article
 {
 	width: 100%;
 	text-align: center;
-	font-size: 28px;
+	font-size: 30px;
 }
 
 #tableau_offres_emploi tr:nth-child(even)
@@ -323,4 +323,25 @@ article
 #tableau_offres_emploi td:nth-child(5)
 {
 	width: 25%;
+}
+
+#tableau_offre th
+{
+	background-color: #3B535F;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+#tableau_offre td:nth-child(1)
+{
+	background-color: #E1E1E1;
+	font-weight: bold;
+	text-align: right;
+}
+
+#tableau_offre td:nth-child(2)
+{
+	background-color: #F3F3F3;
+	text-align: left;
 }
