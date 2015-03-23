@@ -28,6 +28,17 @@ footer a
 	color: #575252;
 }
 
+nav a
+{
+	color: white;
+	text-decoration: none;
+}
+
+a
+{
+	color: #2F535F;
+}
+
 #slogan
 {
 	color: #676767;
@@ -38,12 +49,6 @@ footer a
 {
 	color: #E20016;
 	text-align: center;
-}
-
-a
-{
-	color: white;
-	text-decoration: none;
 }
 
 li
