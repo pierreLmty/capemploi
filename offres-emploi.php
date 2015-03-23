@@ -28,7 +28,7 @@
 						<tr><th>Intitulé du poste</th><th>N° de l'offre</th><th>Contrat</th><th>Rythme</th><th>Lieu de travail</th></tr>
 					</thead>
 					<tbody>
-						<tr onclick="alert('Détails de l\'offre...');"><td>Agent des services hospitaliers</td><td>7156A</td><td>CDD</td><td>Temps partiel</td><td>LE LOROUX BOTTEREAU</td></tr>
+						<tr onclick="window.location.href = 'offre1.php'"><td>Agent des services hospitaliers</td><td>7156A</td><td>CDD</td><td>Temps partiel</td><td>LE LOROUX BOTTEREAU</td></tr>
 						<tr onclick="alert('Détails de l\'offre...');"><td>Juriste conseiller clientèle H/F</td><td>7154A</td><td>CDD</td><td>Temps complet</td><td>ST HERBLAIN</td></tr>
 						<tr onclick="alert('Détails de l\'offre...');"><td>Opérateur logistique</td><td>356A FM</td><td>CDI</td><td>en équipe</td><td>MONTOIR DE BRETAGNE</td></tr>
 					</tbody>
