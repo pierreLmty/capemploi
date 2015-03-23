@@ -97,8 +97,8 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr id="postuler">
-							<td colspan="2">
+						<tr>
+							<td colspan="2" id="postuler">
 								Pour répondre à cette offre,<br/>
 								merci d'adresser votre candidature à <b>Laure BRETIGNIERES.</b><br/>
 								<b>CV + Lettre de motivation</b><br/>
