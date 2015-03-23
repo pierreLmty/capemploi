@@ -325,6 +325,11 @@ article
 	width: 25%;
 }
 
+#tableau_offre
+{
+	width: 100%;
+}
+
 #tableau_offre th
 {
 	background-color: #3B535F;
@@ -338,10 +343,12 @@ article
 	background-color: #E1E1E1;
 	font-weight: bold;
 	text-align: right;
+	width: 20%;
 }
 
 #tableau_offre td:nth-child(2)
 {
 	background-color: #F3F3F3;
 	text-align: left;
+	width: 80%;
 }
