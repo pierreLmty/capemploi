@@ -358,5 +358,26 @@ article
 #postuler
 {
 	background-color: white;
-	font-weight: normal;
+	text-align: center;
+	width: 75%;
+	margin: auto;
+	padding: 20px;
+	font-size: 20px;
+}
+
+#reponse-offre
+{
+	border-bottom: 1px solid #B7B7B7;
+	padding: 20px;
+}
+
+#cv-offre
+{
+	border-bottom: 1px solid #B7B7B7;
+	padding: 20px;
+}
+
+#email-offre
+{
+	padding: 20px;
 }
