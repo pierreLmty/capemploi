@@ -95,7 +95,7 @@
 							<td>Contre-indications</td>
 							<td><ul>
 								<li>Apt intell/cognitif : Concentration et attention</li>
-								<li>Tolérance de travail : Travail fréquent au télépho</li>
+								<li>Tolérance de travail : Travail fréquent au téléphone</li>
 								<li>Aptitudes et tolérance psy. : Contact public</li>
 							</ul></td>
 						</tr>
@@ -105,6 +105,11 @@
 							<th colspan="2">Postuler</th>
 						</tr>
 					</thead>
+				</table>
+
+				<div id="postuler">
+
+				</div>
 					<tbody>
 						<tr>
 							<td colspan="2" id="postuler">

@@ -96,7 +96,11 @@
 							<td><ul>
 								<li>Apt intell/cognitif : Concentration et attention</li>
 								<li>Postures travail : Port de charges < 5 kg</li>
-								<li> Apt intell/cognitif : Comprendre consigne écrite</li>
+								<li>Apt intell/cognitif : Comprendre consigne écrite</li>
+								<li>Aptitudes et tolérance psy : Travail en équipe</li>
+								<li>Postures travail : Station debout/pietinement</li>
+								<li>Aptitudes et tolérance psy : Initiative et responsabilité</li>
+								<li>Apt intell/cognitif : Comprendre consigne orale</li>
 							</ul></td>
 						</tr>
 					</tbody>
@@ -105,16 +109,45 @@
 							<th colspan="2">Postuler</th>
 						</tr>
 					</thead>
+				</table>
+
+				<div id="postuler">
+					<div id="reponse-offre">
+						Pour répondre à cette offre,<br/>
+						merci d'adresser votre candidature à <b>Bérangère TERRIEN.</b><br/>
+					</div>
+					<div id="cv-offre">
+						<b>CV + Lettre de motivation</b><br/>
+						+ Votre titre de l'obligation d'emploi Handicap<br/>
+						pour les personnes non accompagnées à Cap emploi Nantes.<br/>
+					</div>
+					<div id="email-offre">
+						par e-mail à l'adresse :<br/>
+						b.terrien@capemploi44nantes.org<br/>
+						(envoi par email : fichiers au format PDF de préférence)<br/>
+						ou par courrier postal à l'adresse :<br/>
+						Cap emploi 44 Nantes<br/>
+						Mme Laure BRETIGNIERES - Offre 7157P<br/>
+						1 rue Didienne<br/>
+						BP 40816<br/>
+						44008 Nantes Cedex 1
+					</div>
+				</div>
+
+
+
+
+
 					<tbody>
 						<tr>
 							<td colspan="2" id="postuler">
 								Pour répondre à cette offre,<br/>
-								merci d'adresser votre candidature à <b>Laure BRETIGNIERES.</b><br/>
+								merci d'adresser votre candidature à <b>Bérangère TERRIEN.</b><br/>
 								<b>CV + Lettre de motivation</b><br/>
 								+ Votre titre de l'obligation d'emploi Handicap<br/>
 								pour les personnes non accompagnées à Cap emploi Nantes.<br/>
 								par e-mail à l'adresse :<br/>
-								l.bretignieres@capemploi44nantes.org<br/>
+								b.terrien@capemploi44nantes.org<br/>
 								(envoi par email : fichiers au format PDF de préférence)<br/>
 								ou par courrier postal à l'adresse :<br/>
 								Cap emploi 44 Nantes<br/>
