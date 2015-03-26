@@ -19,7 +19,7 @@
 		</nav>
 		
 		<section>
-			<h2 id="titre-partie">Nous contacter</h2>
+			<h2 id="titre">Nous contacter</h2>
 			<form method="post" action="#">
 				<fieldset>
 					<legend>Informations personnelles</legend>

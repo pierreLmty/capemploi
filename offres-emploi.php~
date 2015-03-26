@@ -21,16 +21,16 @@
 		
 		<section>
 			<article>
-				<h2 id="titre_offres_emploi">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
+				<h2 id="titre">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
 				<h3 id="indication_offres_emploi">Cliquez sur une offre pour voir sa fiche détaillée</h3>
 				<table id="tableau_offres_emploi">
 					<thead>
 						<tr><th>Intitulé du poste</th><th>N° de l'offre</th><th>Contrat</th><th>Rythme</th><th>Lieu de travail</th></tr>
 					</thead>
 					<tbody>
-						<tr onclick="window.location.href = 'offre1.php'"><td>Agent des services hospitaliers</td><td>7156A</td><td>CDD</td><td>Temps partiel</td><td>LE LOROUX BOTTEREAU</td></tr>
-						<tr onclick="alert('Détails de l\'offre...');"><td>Juriste conseiller clientèle H/F</td><td>7154A</td><td>CDD</td><td>Temps complet</td><td>ST HERBLAIN</td></tr>
-						<tr onclick="alert('Détails de l\'offre...');"><td>Opérateur logistique</td><td>356A FM</td><td>CDI</td><td>en équipe</td><td>MONTOIR DE BRETAGNE</td></tr>
+						<tr onclick="window.location.href='offre1.php';"><td>Agent de service</td><td>7157P</td><td>CDD</td><td>En équipe</td><td>NANTES</td></tr>
+						<tr onclick="window.location.href='offre2.php';"><td>Agent de service</td><td>7160A</td><td>CDI</td><td>Temps partiel</td><td>ST HERBLAIN</td></tr>
+						<tr onclick="window.location.href='offre3.php';"><td>Agent des services hospitaliers</td><td>7156A</td><td>CDI</td><td>Temps partiel</td><td>ST HERBLAIN</td></tr>
 					</tbody>
 				</table>
 			</article>
