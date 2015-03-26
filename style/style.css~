@@ -269,6 +269,8 @@ article
 	border-bottom: 1px solid #C2005F;
 	/*font-size: 28px;*/
 	/*margin-top: 50px;*/
+	width: 50%;
+	margin: auto;
 }
 
 #indication_offres_emploi
@@ -408,7 +410,7 @@ article
 	color: #666;
 	font-size: 18px;
 }
-
+/*
 fieldset
 {
 	border-color: #3B535F;
@@ -452,4 +454,4 @@ legend
 #contact-infos-perso td, #contact-objet td
 {
 	padding: 10px;
-}
+}*/

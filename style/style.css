@@ -410,33 +410,30 @@ article
 	color: #666;
 	font-size: 18px;
 }
-
+/*
 fieldset
 {
 	border-color: #3B535F;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
-	/*margin-bottom: 50px;*/
-	/*padding: 20px;*/
-	width: 50%;
-	margin-left: auto;
-	margin-right: auto;
+	margin-bottom: 50px;
+	padding: 20px;
 }
 
 legend
 {
 	color: #C2005F;
-	/*font-size: 26px;*/
+	font-size: 26px;
 	font-weight: bold;
-	/*padding: 10px;*/
+	padding: 10px;
 }
 
 #contact-infos-perso, #contact-objet
 {
 	margin: auto;
-	/*font-size: 26px;*/
-	/*width: 80%;*/
+	font-size: 26px;
+	width: 80%;
 }
 
 #contact-infos-perso input, #contact-objet select
@@ -454,4 +451,4 @@ legend
 #contact-infos-perso td, #contact-objet td
 {
 	padding: 10px;
-}
+}*/
