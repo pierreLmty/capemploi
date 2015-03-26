@@ -18,10 +18,10 @@
 			<?php include_once 'html-includes/menu.html'; ?>
 		</nav>
 		
+				<!--
 		<section>
 			<article>
 				<h2 id="titre-partie">Nous contacter</h2>
-				<!--
 				<form method="post" action="#">
 					<fieldset>
 						<legend>Informations personnelles</legend>
@@ -60,9 +60,10 @@
 		  				</table>
 					</fieldset>
 					<input type="submit" value="Envoyer"/>
-				</form>	 -->
+				</form>
 			</article>
 		</section>
+			 -->
 		
 		<footer>
 			<?php include_once 'html-includes/footer.html'; ?>
