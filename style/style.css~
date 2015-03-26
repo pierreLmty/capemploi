@@ -415,6 +415,7 @@ fieldset
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
+	/*margin-bottom: 50px;*/
 	padding: 20px;
 	width: 50%;
 	margin-left: auto;
@@ -424,7 +425,7 @@ fieldset
 legend
 {
 	color: #C2005F;
-	font-size: 26px;
+	/*font-size: 26px;*/
 	font-weight: bold;
 	padding: 10px;
 }
@@ -432,7 +433,7 @@ legend
 #contact-infos-perso, #contact-objet
 {
 	margin: auto;
-	font-size: 26px;
+	/*font-size: 26px;*/
 	width: 80%;
 }
 
