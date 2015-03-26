@@ -17,7 +17,7 @@
 		<section>
 			<article>
 				<h2 id="titre_offres_emploi">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
-				<h3><a href="offre-emploi.php">Retour à la liste</a></h3>
+				<h3><a href="offres-emploi.php">Retour à la liste</a></h3>
 				
 				<table id="tableau_offre">
 					<thead>
@@ -110,23 +110,29 @@
 				<div id="postuler">
 					<div id="reponse-offre">
 						Pour répondre à cette offre,<br/>
-						merci d'adresser votre candidature à <b>Laure BRETIGNIERES.</b><br/>
+						merci d'adresser votre candidature à <strong>Laure BRETIGNIERES.</strong><br/>
 					</div>
 					<div id="cv-offre">
-						<b>CV + Lettre de motivation</b><br/>
-						+ Votre titre de l'obligation d'emploi Handicap<br/>
-						pour les personnes non accompagnées à Cap emploi Nantes.<br/>
+						<strong>CV + Lettre de motivation</strong><br/>
+						<div class="titre-obligation-emploi-handicap">
+							+ Votre titre de l'obligation d'emploi Handicap<br/>
+							pour les personnes non accompagnées à Cap emploi Nantes.<br/>
+						</div>
 					</div>
 					<div id="email-offre">
 						par e-mail à l'adresse :<br/>
-						l.bretignieres@capemploi44nantes.org<br/>
-						(envoi par email : fichiers au format PDF de préférence)<br/>
-						ou par courrier postal à l'adresse :<br/>
-						Cap emploi 44 Nantes<br/>
-						Mme Laure BRETIGNIERES - Offre 7157P<br/>
-						1 rue Didienne<br/>
-						BP 40816<br/>
-						44008 Nantes Cedex 1
+						<strong>
+							<a href="mailto:l.bretignieres@capemploi44nantes.org">l.bretignieres@capemploi44nantes.org</a><br/>
+							<div class="envoi-pdf">
+								(envoi par email : fichiers au format PDF de préférence)
+							</div><br/>
+							ou par courrier postal à l'adresse :<br/>
+							Cap emploi 44 Nantes<br/>
+							Mme Laure BRETIGNIERES - Offre 7157P<br/>
+							1 rue Didienne<br/>
+							BP 40816<br/>
+							44008 Nantes Cedex 1
+						</strong>
 					</div>
 				</div>
 			</article>

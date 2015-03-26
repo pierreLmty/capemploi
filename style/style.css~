@@ -354,7 +354,7 @@ article
 	background-color: #F3F3F3;
 	text-align: left;
 	width: 80%;
-	padding: 15px;
+	padding: 5px;
 }
 
 #postuler
