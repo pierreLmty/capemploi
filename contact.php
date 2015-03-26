@@ -21,9 +21,10 @@
 		<section>
 			<article>
 				<h2 id="titre-partie">Nous contacter</h2>
-				<!--<form method="post" action="#">-->
-					<!--<fieldset>
-						<legend>Informations personnelles</legend>-->
+				<!--
+				<form method="post" action="#">
+					<fieldset>
+						<legend>Informations personnelles</legend>
 					
 						<table id="contact-infos-perso">
 							<tr>
@@ -39,9 +40,9 @@
 								<td><input type="email" id="mail" required></td>
 							</tr>
 						</table>
-					<!--</fieldset>
+					</fieldset>
 					<fieldset>
-						<legend>Objet de la demande</legend>-->
+						<legend>Objet de la demande</legend>
 					
 						<table id="contact-objet">
 							<tr>
@@ -57,9 +58,9 @@
 			  					<td><label for="message">Message </label></td><td><textarea id="message">Corps du message...</textarea></td>
 			  				</tr>
 		  				</table>
-					<!--</fieldset>-->
-					<!--<input type="submit" value="Envoyer"/>
-				</form>	-->	
+					</fieldset>
+					<input type="submit" value="Envoyer"/>
+				</form>	 -->
 			</article>
 		</section>
 		
