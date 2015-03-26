@@ -30,7 +30,7 @@
 					<tbody>
 						<tr onclick="window.location.href='offre1.php';"><td>Agent de service</td><td>7157P</td><td>CDD</td><td>En équipe</td><td>NANTES</td></tr>
 						<tr onclick="window.location.href='offre2.php';"><td>Agent de service</td><td>7160A</td><td>CDI</td><td>Temps partiel</td><td>ST HERBLAIN</td></tr>
-						<tr onclick="window.location.href='offre3.php';"><td>Agent des services hospitaliers</td><td>7160A</td><td>CDI</td><td>Temps partiel</td><td>ST HERBLAIN</td></tr>
+						<tr onclick="window.location.href='offre3.php';"><td>Agent des services hospitaliers</td><td>7156A</td><td>CDI</td><td>Temps partiel</td><td>ST HERBLAIN</td></tr>
 					</tbody>
 				</table>
 			</article>
