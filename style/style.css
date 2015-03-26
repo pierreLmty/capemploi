@@ -269,6 +269,8 @@ article
 	border-bottom: 1px solid #C2005F;
 	/*font-size: 28px;*/
 	/*margin-top: 50px;*/
+	width: 50%;
+	margin: auto;
 }
 
 #indication_offres_emploi
