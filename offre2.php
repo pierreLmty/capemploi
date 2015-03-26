@@ -16,7 +16,7 @@
 		
 		<section>
 			<article>
-				<h2 id="titre_offres_emploi">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
+				<h2 id="titre-partie">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
 				<h3><a href="offres-emploi.php">Retour à la liste</a></h3>
 				
 				<table id="tableau_offre">

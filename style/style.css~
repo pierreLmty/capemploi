@@ -267,7 +267,11 @@ article
 	color: #C2005F;
 	text-align: center;
 	border-bottom: 1px solid #C2005F;
-	font-size: 26px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 28px;
+	margin-top: 50px;
+	width: 90%;
 }
 
 #indication_offres_emploi
@@ -297,6 +301,11 @@ article
 {
 	background-color: black;
 	color: white;
+}
+
+#tableau_offres_emploi tr
+{
+	height: 150px;
 }
 
 #tableau_offres_emploi td:nth-child(1)
@@ -355,6 +364,12 @@ article
 	text-align: left;
 	width: 80%;
 	padding: 15px;
+}
+
+#tableau_offre thead tr th
+{
+	font-size: 28px;
+	height: 50px;
 }
 
 #postuler

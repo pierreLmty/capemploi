@@ -267,7 +267,11 @@ article
 	color: #C2005F;
 	text-align: center;
 	border-bottom: 1px solid #C2005F;
+	margin-left: auto;
+	margin-right: auto;
 	font-size: 28px;
+	margin-top: 50px;
+	width: 90%;
 }
 
 #indication_offres_emploi
@@ -297,6 +301,11 @@ article
 {
 	background-color: black;
 	color: white;
+}
+
+#tableau_offres_emploi tr
+{
+	height: 150px;
 }
 
 #tableau_offres_emploi td:nth-child(1)
@@ -357,6 +366,12 @@ article
 	padding: 15px;
 }
 
+#tableau_offre thead tr th
+{
+	font-size: 28px;
+	height: 50px;
+}
+
 #postuler
 {
 	background-color: white;
@@ -405,6 +420,9 @@ fieldset
 	border-radius: 20px;
 	margin-bottom: 50px;
 	padding: 20px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 legend
