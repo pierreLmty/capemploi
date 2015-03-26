@@ -22,7 +22,7 @@
 				<table id="tableau_offre">
 					<thead>
 						<tr>
-							<th colspan="2">OFFRE n° 7160A</th>
+							<th colspan="2">OFFRE n° 7156A</th>
 						</tr>
 					</thead>
 					<tbody>
