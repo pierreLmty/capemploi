@@ -267,11 +267,8 @@ article
 	color: #C2005F;
 	text-align: center;
 	border-bottom: 1px solid #C2005F;
-	margin-left: auto;
-	margin-right: auto;
 	font-size: 28px;
 	margin-top: 50px;
-	width: 90%;
 }
 
 #indication_offres_emploi
@@ -420,9 +417,9 @@ fieldset
 	border-radius: 20px;
 	margin-bottom: 50px;
 	padding: 20px;
-	width: 90%;
-	margin-right: auto;
+	width: 50%;
 	margin-left: auto;
+	margin-right: auto;
 }
 
 legend
