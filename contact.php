@@ -63,7 +63,7 @@
 			  				</tr>
 		  				</table>
 					</fieldset>
-					<input type="submit" value="Envoyer"/>
+					<input type="submit" value="Envoyer" id="contact-bouton-envoyer"/>
 				</form>
 			</article>
 		</section>

@@ -18,7 +18,11 @@
 			<?php include_once 'html-includes/menu.html'; ?>
 		</nav>
 		
-				<!--
+		<!--
+			Sur un smartphone, la page entière est réduite par rapport aux autres pages.
+			La cause est inconnue, même en enlevant le code HTML et CSS propres à cette page, le problème existe.
+		-->
+		
 		<section>
 			<article>
 				<h2 id="titre-partie">Nous contacter</h2>
@@ -63,7 +67,6 @@
 				</form>
 			</article>
 		</section>
-			 -->
 		
 		<footer>
 			<?php include_once 'html-includes/footer.html'; ?>
