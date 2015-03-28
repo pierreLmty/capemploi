@@ -97,7 +97,7 @@
 							<td>Contre-indications</td>
 							<td><ul>
 								<li>Apt intell/cognitif : Concentration et attention</li>
-								<li>Postures travail : Port de charges < 5 kg</li>
+								<li>Postures travail : Port de charges &lt; 5 kg</li>
 								<li>Apt intell/cognitif : Comprendre consigne écrite</li>
 								<li>Aptitudes et tolérance psy : Travail en équipe</li>
 								<li>Postures travail : Station debout/pietinement</li>

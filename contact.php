@@ -41,11 +41,7 @@
 							</tr>
 							<tr>
 								<td><label for="mail">E-mail </label></td>
-<<<<<<< HEAD
 								<td><input type="email" id="mail"></td>
-=======
-								<td><input type="email" id="mail" required></td>
->>>>>>> 6c8c9ccbe5e63bc01d67d13aa4ea83e6562adf86
 							</tr>
 						</table>
 					</fieldset>

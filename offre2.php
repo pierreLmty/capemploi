@@ -125,12 +125,12 @@
 					</div>
 					<div id="email-offre">
 						par e-mail à l'adresse :<br/>
+						<a href="mailto:l.bretignieres@capemploi44nantes.org">l.bretignieres@capemploi44nantes.org</a><br/>
+						<div class="envoi-pdf">
+							(envoi par email : fichiers au format PDF de préférence)
+						</div><br/>
+						ou par courrier postal à l'adresse :<br/>
 						<strong>
-							<a href="mailto:l.bretignieres@capemploi44nantes.org">l.bretignieres@capemploi44nantes.org</a><br/>
-							<div class="envoi-pdf">
-								(envoi par email : fichiers au format PDF de préférence)
-							</div><br/>
-							ou par courrier postal à l'adresse :<br/>
 							Cap emploi 44 Nantes<br/>
 							Mme Laure BRETIGNIERES - Offre 7157P<br/>
 							1 rue Didienne<br/>
