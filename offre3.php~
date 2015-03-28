@@ -16,10 +16,10 @@
 		
 		<section>
 			<article>
-				<h2 id="titre_offres_emploi">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
+				<h2 id="titre-partie">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
 				<h3><a href="offres-emploi.php">Retour à la liste</a></h3>
 				
-				<table id="tableau_offre">
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">OFFRE n° 7156A</th>
@@ -77,6 +77,8 @@
 							<td>SMIC sur 20H semaine</td>
 						</tr>
 					</tbody>
+				</table>
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">Profil recherché</th>
@@ -95,7 +97,7 @@
 							<td>Contre-indications</td>
 							<td><ul>
 								<li>Apt intell/cognitif : Concentration et attention</li>
-								<li>Postures travail : Port de charges < 5 kg</li>
+								<li>Postures travail : Port de charges &lt; 5 kg</li>
 								<li>Apt intell/cognitif : Comprendre consigne écrite</li>
 								<li>Aptitudes et tolérance psy : Travail en équipe</li>
 								<li>Postures travail : Station debout/pietinement</li>
@@ -104,6 +106,8 @@
 							</ul></td>
 						</tr>
 					</tbody>
+				</table>
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">Postuler</th>

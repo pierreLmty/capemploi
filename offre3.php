@@ -110,7 +110,7 @@
 				<table class="tableau_offre">
 					<thead>
 						<tr>
-							<th colspan="2">Postuler</th>
+							<th>Postuler</th>
 						</tr>
 					</thead>
 				</table>
