@@ -267,11 +267,8 @@ article
 	color: #C2005F;
 	text-align: center;
 	border-bottom: 1px solid #C2005F;
-	margin-left: auto;
-	margin-right: auto;
 	font-size: 28px;
 	margin-top: 50px;
-	width: 90%;
 }
 
 #indication_offres_emploi
@@ -368,8 +365,8 @@ article
 
 #tableau_offre thead tr th
 {
-	font-size: 28px;
-	height: 50px;
+	font-size: 30px;
+	height: 60px;
 }
 
 #postuler
@@ -452,4 +449,15 @@ legend
 #contact-infos-perso td, #contact-objet td
 {
 	padding: 10px;
+}
+
+#contact-bouton-envoyer
+{
+	width: 20%;
+	height: 50px;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-left: 40%;
+	margin-right: 40%;
 }

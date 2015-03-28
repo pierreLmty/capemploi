@@ -19,7 +19,7 @@
 				<h2 id="titre-partie">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
 				<h3><a href="offres-emploi.php">Retour à la liste</a></h3>
 				
-				<table id="tableau_offre">
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">OFFRE n° 7160A</th>
@@ -81,6 +81,8 @@
 							<td>9.94 euros brut</td>
 						</tr>
 					</tbody>
+				</table>
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">Profil recherché</th>
@@ -100,6 +102,8 @@
 							</ul></td>
 						</tr>
 					</tbody>
+				</table>
+				<table class="tableau_offre">
 					<thead>
 						<tr>
 							<th colspan="2">Postuler</th>
