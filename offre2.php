@@ -16,8 +16,8 @@
 		
 		<section>
 			<article>
-				<h2 id="titre-partie">Offres pour Travailleurs Handicapés</h2>
-				<h3><input class="bouton-retour-liste" type="button" onclick="document.location.href='offres-emploi.php';" value="Retour à la liste"/></h3>
+				<h2 id="titre-partie">Offres Cap emploi réservées aux Travailleurs Handicapés</h2>
+				<h3><a href="offres-emploi.php">Retour à la liste</a></h3>
 				
 				<table class="tableau_offre">
 					<thead>
@@ -125,7 +125,7 @@
 					</div>
 					<div id="email-offre">
 						par e-mail à l'adresse :<br/>
-						<input type="button" class="bouton-mail" onclick="document.location.href='mailto:l.bretignieres@capemploi44nantes.org';" value="l.bretignieres@capemploi44nantes.org"/><br/>
+						<a href="mailto:l.bretignieres@capemploi44nantes.org">l.bretignieres@capemploi44nantes.org</a><br/>
 						<div class="envoi-pdf">
 							(envoi par email : fichiers au format PDF de préférence)
 						</div><br/>

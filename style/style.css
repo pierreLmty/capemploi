@@ -21,6 +21,15 @@ footer
 	text-align: center;
 	font-size: 12px;
 	margin-top: 30px;
+	padding: 10px;
+	background-image: -webkit-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:    -moz-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:     -ms-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:      -o-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:         linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
 
 footer a
@@ -335,7 +344,6 @@ article
 {
 	width: 100%;
 	font-size: 20px;
-	margin-bottom: 20px;
 }
 
 .tableau_offre th
@@ -349,7 +357,7 @@ article
 
 .tableau_offre td:nth-child(1)
 {
-	background-color: #E9E9E9;
+	background-color: #E1E1E1;
 	font-weight: bold;
 	text-align: right;
 	width: 20%;
@@ -377,7 +385,6 @@ article
 	width: 75%;
 	margin: auto;
 	padding: 20px;
-	padding-top: 0;
 	font-size: 20px;
 }
 
@@ -385,7 +392,6 @@ article
 {
 	border-bottom: 1px solid #B7B7B7;
 	padding: 20px;
-	padding-top: 0;
 }
 
 #cv-offre
@@ -463,18 +469,4 @@ legend
 	margin-bottom: 20px;
 	margin-left: 35%;
 	margin-right: 35%;
-}
-
-.bouton-mail
-{
-	padding: 20px;
-	font-size: 20px;
-}
-
-.bouton-retour-liste
-{
-	padding: 10px;
-	font-size: 18px;
-	padding-left: 20px;
-	padding-right: 20px;
 }
