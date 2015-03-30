@@ -34,6 +34,16 @@ $(document).ready(function()
 				$( '.sousmenu').slideUp(300); 
 				$(this).next().slideToggle(300);
 			} 
-		}); 
+		});
+		$('.retractation > a').click(function()
+		{
+			if($(this).next().is(':visible'))
+				$('.conteneur_menu').slideUp(300);
+			else
+			{
+				$('.conteneur_menu').slideUp(300);
+				$(this).next().slideToggle(300);
+			}
+		});
 	});
 });
