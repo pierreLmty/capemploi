@@ -98,7 +98,12 @@ nav li, #tableau_offres_emploi li
 	-ms-transition:all 0.25s ease;
 	-o-transition:all 0.25s ease;
 	transition:all 0.25s ease;
-} 
+}
+
+#menuGeneral
+{
+	font-size: 2em;
+}
 
 #menu_pers_handi
 {
