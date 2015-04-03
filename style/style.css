@@ -158,6 +158,13 @@ nav li, #tableau_offres_emploi li
 	padding: 22px;
 }
 
+.menu-retracte
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
 .retractation
 {
 	background-color: red;
