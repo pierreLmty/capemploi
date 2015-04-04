@@ -23,18 +23,19 @@ footer
 	margin-top: 30px;
 	padding: 10px;
 	background-image: -webkit-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
-	background-image:    -moz-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:    -moz-linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
 	background-image:     -ms-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
 	background-image:      -o-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
 	background-image:         linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
+	color: white;
 }
 
 footer a
 {
-	color: #575252;
+	color: lightgrey;
 }
 
 nav a
@@ -98,7 +99,12 @@ nav li, #tableau_offres_emploi li
 	-ms-transition:all 0.25s ease;
 	-o-transition:all 0.25s ease;
 	transition:all 0.25s ease;
-} 
+}
+
+#menuGeneral
+{
+	font-size: 2em;
+}
 
 #menu_pers_handi
 {
@@ -151,6 +157,13 @@ nav li, #tableau_offres_emploi li
 	width: 100%;
 	display: block;
 	padding: 22px;
+}
+
+.menu-retracte
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 .retractation
@@ -375,7 +388,7 @@ article
 {
 	width: 100%;
 	font-size: 20px;
-	margin-top: 1em;
+	margin-top: 2em;
 }
 
 .tableau_offre th
