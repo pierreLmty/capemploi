@@ -22,11 +22,11 @@ footer
 	font-size: 12px;
 	margin-top: 30px;
 	padding: 10px;
-	background-image: -webkit-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image: -webkit-linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
 	background-image:    -moz-linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
-	background-image:     -ms-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
-	background-image:      -o-linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
-	background-image:         linear-gradient(top, #dbdbdb -10%, #C2005F 100%);
+	background-image:     -ms-linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
+	background-image:      -o-linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
+	background-image:         linear-gradient(top, #dbdbdb -20%, #C2005F 100%);
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
@@ -36,6 +36,7 @@ footer
 footer a
 {
 	color: lightgrey;
+	text-decoration: solid 1px lightgrey;
 }
 
 nav a
